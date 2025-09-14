@@ -1,2 +1,2 @@
 # Oefenen-In-Het-Wild
-Voor Hoofdstuk 6
+// Alle Opdrachten Zijn Hier Gemaakt.
