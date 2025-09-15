@@ -1,4 +1,4 @@
-// Variabelen 1.1
+// 1.1 Variabelen 1.1
 
 String autoMerkBMW = "Dat is vast een dure auto!";
 int a = 10;
@@ -8,10 +8,10 @@ int totaal = 0;
 totaal = a / b; // Somt beiden nummers. Door delen.
 println(totaal);
 
-// Vergelijken 1
+// 1.2 Vergelijken 1
 println(autoMerkBMW);
 
-//Vergelijken 2
+// 1.3 Vergelijken 2
 int leeftijd = 5;
 
 if(leeftijd >= 0 && leeftijd < 1){
